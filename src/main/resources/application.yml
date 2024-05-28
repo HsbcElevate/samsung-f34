@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: samsung-f34
+    
+    
+server:
+  port: 9001
