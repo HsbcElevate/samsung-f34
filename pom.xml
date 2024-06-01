@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.samsung</groupId>
-	<artifactId>samsung-f34</artifactId>
+	<artifactId>samsung</artifactId>
 	<version>0.0.1</version>
-	<name>samsung-f34</name>
+	<name>samsung</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

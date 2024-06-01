@@ -1,4 +1,4 @@
-FROM openjdk:11
-COPY target/samsung-f34-0.0.1.jar samsung:0.0.1.jar 
-ENTRYPOINT ["java","-jar","/samsung:0.0.1.jar"]
+FROM openjdk:17-alpine
+COPY target/samsung-0.0.1.jar samsung.jar 
+ENTRYPOINT ["java","-jar","/samsung.jar"]
 EXPOSE 9001

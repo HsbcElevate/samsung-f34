@@ -1,6 +1,6 @@
 spring:
   application:
-    name: samsung-f34
+    name: samsung
     
     
 server:
